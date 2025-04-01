@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dr. Adeola Bannis.
-- 🌱 I’m currently a Senior Signal Processing Engineer at (AiFi)[https://aifi.com].
 - 💞️ I’m looking to collaborate on sensor fusion, IoT, making things in general.
 
 <!---
